@@ -4,6 +4,7 @@ spring:
       active: local
     job:
       names: ${job.name:NONE}
+      enabled: false
   jpa:
     hibernate:
       ddl-auto: update
