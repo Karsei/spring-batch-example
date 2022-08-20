@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringBatchExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="spring-batch-example.batch.main" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="kr.pe.karsei.springbatchexample.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="SPRING_BOOT_MAIN_CLASS" value="kr.pe.karsei.springbatchexample.SpringBatchExampleApplication" />
+    <option name="PROGRAM_PARAMETERS" value="20220819" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
